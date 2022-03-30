@@ -1,5 +1,5 @@
 # def function
-def fibonacci(high_point, low_point): 
+def myFibonacci(high_point, low_point): 
     # 邏輯組合
     diff = high_point - low_point
     raito_1 = diff*0.236
